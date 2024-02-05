@@ -2,10 +2,12 @@
 
 Bài dự thi của đội Big Machine ở vòng 1 - Cuộc thi Data Got Talent 2023
 
+- [VÒNG 1 - CUỘC THI DATA GOT TALENT 2023](#vòng-1---cuộc-thi-data-got-talent-2023)
+  - [Mục lục](#mục-lục)
+  - [Giới thiệu](#giới-thiệu)
+  - [Thành phần:](#thành-phần)
+  - [Cài đặt chương trình](#cài-đặt-chương-trình)
 ## Mục lục 
-- [Giới thiệu](#giới-thiệu)
-- [Thành phần](#thành-phần)
-- [Cài đặt chương trình](#cài-đặt-chương-trình)
 
 ## Giới thiệu
 
@@ -16,5 +18,9 @@ Một doanh nghiệp phát hành phim đang có mong muốn sử dụng bộ dat
 2. EDA.html: File code được xuất ra bằng trình duyệt web HTML
    (Vì lí do bảo mật nên bộ dữ liệu không được upload lên)
 
-### Cài đặt chương trình
-File code này sử dụng 
+## Cài đặt chương trình
+File code này sử dụng Python 3.9.18 có thể cài đặt bằng môi trường Anaconda.
+
+Để cài hết thư viện có thể nhập dòng lệnh sau ở terminal (cmd hoặc powershell) của môi trường ảo đó.
+
+```pip install -r requirements.txt```
