@@ -24,3 +24,10 @@ File code này sử dụng Python 3.9.18 có thể cài đặt bằng môi trư�
 Để cài hết thư viện có thể nhập dòng lệnh sau ở terminal (cmd hoặc powershell) của môi trường ảo đó.
 
 ```pip install -r requirements.txt```
+
+Các thư viện chủ yếu được sử dụng như sau:
+1. Pandas: Xử lý và phân tích dữ liệu (Làm sạch những giá trị bị mất, giá trị không hợp lý trong dữ liệu)
+2. Matplotlib: Cung cấp các công cụ để tạo ra các biểu đồ và đồ thị chất lượng cao
+3. Plotly: Là một thư viện đồ họa tương tác cho Python, JavaScript, và R, cho phép tạo ra các biểu đồ và đồ thị tương tác chất lượng cao
+
+Note: File Dashboard có thể xem trong EDA.html
