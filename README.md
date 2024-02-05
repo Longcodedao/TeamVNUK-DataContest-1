@@ -8,7 +8,10 @@ Bài dự thi của đội Big Machine ở vòng 1 - Cuộc thi Data Got Talent 
   - [Thành phần:](#thành-phần)
   - [Cài đặt chương trình](#cài-đặt-chương-trình)
 ## Mục lục 
-
+1. Giới thiệu
+2. Thành phần
+3. Cài đặt chương trình
+4. 
 ## Giới thiệu
 
 Một doanh nghiệp phát hành phim đang có mong muốn sử dụng bộ data thu thập được từ năm 2019 về doanh thu bán hàng, sở thích, thoái quen hành vi của khách hàng để thể đưa ra những chiến lược kinh doanh chính xác và hiểu quả nhất. 
@@ -30,4 +33,5 @@ Các thư viện chủ yếu được sử dụng như sau:
 2. Matplotlib: Cung cấp các công cụ để tạo ra các biểu đồ và đồ thị chất lượng cao
 3. Plotly: Là một thư viện đồ họa tương tác cho Python, JavaScript, và R, cho phép tạo ra các biểu đồ và đồ thị tương tác chất lượng cao
 
-Note: File Dashboard có thể xem trong EDA.html
+*Note*: File Dashboard có thể xem trong ```EDA.html```
+Link code của bài thi này: [Bài dự thi](https://github.com/Longcodedao/TeamVNUK-DataContest-1)
