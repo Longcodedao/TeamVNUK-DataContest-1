@@ -12,5 +12,9 @@ Bài dự thi của đội Big Machine ở vòng 1 - Cuộc thi Data Got Talent 
 Một doanh nghiệp phát hành phim đang có mong muốn sử dụng bộ data thu thập được từ năm 2019 về doanh thu bán hàng, sở thích, thoái quen hành vi của khách hàng để thể đưa ra những chiến lược kinh doanh chính xác và hiểu quả nhất. 
 
 ## Thành phần:
-1. DATA SET - 
+1. EDA.ipynb: File code phân tích dữ liệu và vẽ biểu đồ bằng Python
+2. EDA.html: File code được xuất ra bằng trình duyệt web HTML
+   (Vì lí do bảo mật nên bộ dữ liệu không được upload lên)
 
+### Cài đặt chương trình
+File code này sử dụng 
